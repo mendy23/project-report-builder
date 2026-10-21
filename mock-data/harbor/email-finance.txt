@@ -1,0 +1,11 @@
+From: Marcus Tan (Finance)
+To: Harbor rollout team
+Subject: Revised capex forecast - needed by 23 Oct
+
+Team,
+
+Programme budget is still $2.4M and $1.52M is spent to date. Network hardware is running $310K over the original quote because of the Wi-Fi 7 upgrade, and software licences are $45K under. Net, we are $265K over before any new spend.
+
+Please send each workstream's remaining cost by Friday. Anything above $50K, such as the second cooling unit (about $62K) or the carrier install fee ($38K), needs a one-line justification for the steering group on 30 Oct.
+
+Marcus

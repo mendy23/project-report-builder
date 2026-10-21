@@ -1,0 +1,147 @@
+{
+  "common": {
+    "untitled": "Untitled",
+    "summary": "Summary"
+  },
+  "status": {
+    "on_track": "On track",
+    "at_risk": "At risk",
+    "blocked": "Blocked"
+  },
+  "defaults": {
+    "risksTitle": "Risks",
+    "nextStepsTitle": "Next steps",
+    "newListTitle": "New list"
+  },
+  "exportText": {
+    "attached": "attached",
+    "attachedSeparately": "attached separately"
+  },
+  "errors": {
+    "requestFailed": "POST {{url}} failed: {{status}} {{statusText}}",
+    "noBody": "The response had no body",
+    "streamEnded": "The stream ended before the model finished",
+    "imageProcess": "Could not process {{name}}",
+    "imageTooLarge": "{{name}} is {{size}}MB; the limit is 10MB",
+    "readFailed": "Failed to read {{name}}"
+  },
+  "input": {
+    "appName": "Project Report Builder",
+    "titles": [
+      "Ready for your report?",
+      "How is the project going?",
+      "What's new on the project?",
+      "Got updates to share?",
+      "Let's turn your updates into a report"
+    ],
+    "projectNameLabel": "Report Title",
+    "projectNamePlaceholder": "e.g. project name - phase completed",
+    "focusLabel": "Focus (optional)",
+    "focusPlaceholder": "e.g. network, security",
+    "focusHint": "Name the topics the card should cover. Leave empty to cover everything.",
+    "notesLabel": "Updates",
+    "notesPlaceholder": "e.g. sprint updates, metric data, team chat",
+    "formatsHint": "Supports text (TXT, MD, JSON), CSV files and images (PNG, JPG).",
+    "removeFile": "Remove {{name}}",
+    "attachLabel": "Attach files or photos",
+    "generateButton": "Generate card",
+    "workingButton": "Working…"
+  },
+  "edit": {
+    "backButton": "← Inputs",
+    "hidePanel": "Hide blocks panel",
+    "showPanel": "Show blocks panel",
+    "copyButton": "Copy as",
+    "downloadButton": "Download PNG",
+    "formatRichText": "Rich text",
+    "formatRichTextBest": "Best for email.",
+    "formatRichTextTested": "e.g. Gmail, Apple Mail.",
+    "formatImage": "Image",
+    "formatImageBest": "Best for chat apps.",
+    "formatImageTested": "e.g. iMessage, WhatsApp.",
+    "formatPlainText": "Plain text",
+    "formatPlainTextBest": "Works anywhere.",
+    "infoAria": "About {{label}}",
+    "copyAria": "Copy as {{label}}",
+    "copiedAsMessage": "Copied as {{label}}",
+    "downloadedMessage": "Downloaded {{size}} KB",
+    "failedMessage": "{{what}} failed: {{message}}",
+    "copyWhat": "Copy",
+    "downloadWhat": "Download"
+  },
+  "palette": {
+    "navLabel": "Blocks",
+    "statusTags": "Status",
+    "blockHeader": "Header",
+    "blockStatus": "Status",
+    "blockSummary": "Summary",
+    "blockKpi": "KPI",
+    "blockChart": "Chart",
+    "blockImage": "Image",
+    "blockRisks": "Risks",
+    "blockNextSteps": "Next steps",
+    "blockNote": "Free text",
+    "images": "Uploaded images",
+    "stateInCard": "in the card",
+    "stateFound": "{{count}} found",
+    "stateNothing": "nothing found",
+    "stateBlank": "blank block",
+    "stateWrite": "written from your notes",
+    "addAria": "Add {{label}} block — {{state}}",
+    "dragHint": "Drag blocks onto the card or click to add. Drag to reorder. Click a block to edit."
+  },
+  "canvas": {
+    "ariaLabel": "Card blocks. Click a block to edit, drag to reorder.",
+    "removeAria": "Remove {{type}}",
+    "dropZone": "Drop blocks here",
+    "author": "Author"
+  },
+  "llm": {
+    "writing": "Writing"
+  },
+  "properties": {
+    "onePerLine": "(one per line)"
+  },
+  "keywords": {
+    "heading": "Suggested keywords",
+    "title": "Title",
+    "status": "Status",
+    "summary": "Summary",
+    "kpi": "Key figures",
+    "risks": "Risks",
+    "next_steps": "Next steps",
+    "addLabel": "Add a keyword",
+    "addPlaceholder": "Add a keyword",
+    "remove": "Remove keyword {{text}}"
+  },
+  "enhance": {
+    "label": "LLM enhancement: {{block}}",
+    "tooltip": "LLM enhancement",
+    "drag": "Drag to reorder",
+    "removeChip": "Remove keyword {{text}}",
+    "error": "Couldn't write this block: {{message}}"
+  },
+  "exclude": {
+    "drop": "Drop here to exclude"
+  },
+  "blockEdit": {
+    "projectName": "Project name",
+    "author": "Author",
+    "addAuthor": "Add author",
+    "status": "Status",
+    "summary": "Summary",
+    "item": "Item {{n}}",
+    "metricValue": "Metric value {{n}}",
+    "valuePlaceholder": "Value",
+    "metricLabel": "Metric label {{n}}",
+    "labelPlaceholder": "Label",
+    "removeMetric": "Remove metric {{name}}",
+    "addMetric": "Add metric",
+    "noteTitle": "Note title",
+    "addTitle": "Add a title",
+    "noteText": "Note text",
+    "notePlaceholder": "Write text, or start a line with - for a bullet",
+    "listTitle": "List title",
+    "chartTitle": "Chart title"
+  }
+}

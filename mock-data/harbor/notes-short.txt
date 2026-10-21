@@ -1,0 +1,1 @@
+Harbor phase 2 done, 112 of 160 access points live, no WAN failover yet, latency 18 ms.

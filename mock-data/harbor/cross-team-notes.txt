@@ -1,0 +1,23 @@
+Harbor Campus Rollout - cross-team alignment, week of 12 Oct 2026
+
+NETWORK
+Core switch replacement finished at building B on Tuesday; buildings A and C follow in November. WAN link upgrade from 1 Gbps to 10 Gbps went live, and average campus latency fell from 42 ms to 18 ms. Wi-Fi 7 access points: 112 of 160 installed. The carrier has not confirmed the second fibre route, so there is no WAN failover until at least 6 Nov.
+
+SECURITY
+Penetration test found 3 high findings and 9 medium findings; 1 high finding is fixed, so 2 high findings are still open. Firewall rule review is 60% done. The SOC 2 audit window opens 2 Nov and the MFA rollout is at 85% of staff. Security wants the new VLAN segmentation signed off before the guest Wi-Fi launches.
+
+SOFTWARE
+Badge-access app v2.3 released with 14 bugs closed and 6 still open. The visitor check-in service migrated to the new cluster, p95 response time 210 ms. Sprint velocity dropped to 28 points because two engineers were pulled onto the pen-test fixes.
+
+MAINTENANCE
+HVAC controller replacement in building A is 2 weeks behind because the part is back-ordered. Generator test passed on Thursday. The server room cooling is at 78% capacity and needs a second unit before more racks go in.
+
+ACCOUNTING
+Programme budget is $2.4M, $1.52M spent to date. Network hardware is $310K over the original quote due to the Wi-Fi 7 upgrade; software licences are $45K under. Finance needs the revised capex forecast by 23 Oct.
+
+NEXT
+- Network: confirm second fibre route with the carrier by 30 Oct
+- Security: sign off VLAN segmentation before 2 Nov
+- Software: ship badge app v2.4 on 6 Nov
+- Maintenance: order second cooling unit this week
+- Accounting: submit revised capex forecast 23 Oct

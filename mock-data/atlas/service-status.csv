@@ -1,0 +1,15 @@
+service,owner,status,progress_pct
+auth-service,Priya,done,100
+user-profile,Priya,done,100
+orders,Tomas,done,100
+inventory,Tomas,done,100
+payments-gateway,Mei,done,100
+search-indexer,Mei,done,100
+reporting,Priya,done,100
+audit-log,Tomas,done,100
+data-sync,Mei,done,100
+notifications-api,Priya,in progress,60
+email-sender,Tomas,in progress,35
+analytics-etl,Mei,in progress,20
+admin-portal,Priya,not started,0
+billing-service,Mei,blocked,10

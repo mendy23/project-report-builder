@@ -1,0 +1,15 @@
+workstream,owner,status,progress_pct
+wan-upgrade,Kira,done,100
+core-switch-b,Kira,done,100
+core-switch-a,Kira,not started,0
+core-switch-c,Kira,not started,0
+wifi7-access-points,Kira,in progress,70
+wan-failover,Kira,blocked,0
+firewall-review,Felix,in progress,60
+mfa-rollout,Felix,in progress,85
+vlan-segmentation,Felix,in progress,40
+badge-app-v2,Nora,in progress,80
+visitor-checkin,Nora,done,100
+hvac-controller-a,Omar,in progress,40
+cooling-unit-2,Omar,not started,0
+capex-forecast,Marcus,in progress,50

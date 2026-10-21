@@ -1,0 +1,3 @@
+Atlas went well this week. The team is happy with how smooth the second cutover wave was and support has started using the new dashboard.
+The main worry is the vendor contract, which legal is still chasing. Another concern is that knowledge of the old billing job sits with one person.
+Next we start moving the remaining services and re-run the big load test once the staging environment is bigger.

@@ -1,0 +1,11 @@
+From: Jordan Ellis (Procurement)
+To: Harbor rollout team
+Subject: Second fibre route - carrier status
+
+Hi all,
+
+NorthLink replied on 15 Oct. Their survey team can start on the second fibre route on 3 Nov, and the route would be live about 10 business days after that, so WAN failover is not possible before 6 Nov and more likely mid November. The one-off install fee is $38K; I have not approved it yet because it is not in the capex forecast.
+
+If we cannot get the route before the SOC 2 audit window opens on 2 Nov, Security suggests we document the single WAN link as an accepted risk until failover is live. Felix owns that write-up and it is due Oct 27.
+
+Jordan

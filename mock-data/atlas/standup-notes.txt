@@ -1,0 +1,7 @@
+tue standup (messy, typed on phone)
+priya fixed the date parser - 37 bugs closed this sprint, 12 still open
+tomas pairing w/ mei on the legacy billing job, says its 3 days of work to document
+staging disks, resize ticket INFRA-2291 still not picked up
+blocked: waiting on databridge sandbox keys (asked twice)
+demo to support team thursday 2pm, widget shows ticket volume per hour
+reminder: load test window is sat 24 oct 02:00-06:00, need 4 ppl on call

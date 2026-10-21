@@ -1,0 +1,21 @@
+Atlas Migration - weekly update, week of 12 Oct 2026
+
+Phase 2 (service cutover) finished a day early on Thursday. 9 of 14 services now run on the new cluster; the remaining 5 move in phase 3.
+Query p95 latency dropped from 320 ms to 180 ms after the index rebuild, a 44% improvement.
+Error rate is steady at 0.3% (target is under 0.5%).
+Migrated 1.4M customer records without data loss; 2,300 records needed manual fixes for malformed addresses.
+
+- Shipped the new dashboard widget for the support team
+- Finance signed off the phase 3 budget ($480K approved, $312K spent so far)
+- Onboarded 2 new engineers (Priya and Tomas) to the platform team
+
+Risks
+- The DataBridge vendor API contract is still unsigned; legal says Oct 28 at the earliest, which could block the billing-service cutover
+- Only one engineer (Mei) knows the legacy billing job, a bus-factor risk
+- The staging cluster hit 91% disk during the load test and must be resized before phase 3
+
+Next:
+- Begin phase 3 cutover on Monday 19 Oct, starting with notifications-api
+- Resize staging disks by Wednesday
+- Escalate the DataBridge contract to the VP of Eng if still unsigned on Friday
+- Run the full-system load test again on 26 Oct

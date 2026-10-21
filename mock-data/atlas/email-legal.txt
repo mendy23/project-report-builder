@@ -1,0 +1,11 @@
+From: Dana Whitfield (Legal)
+To: Atlas project team
+Subject: DataBridge contract - status
+
+Hi all,
+
+We sent redlines back to DataBridge on 14 Oct. They have 5 business days to respond, so the earliest signature is Oct 28. Their security team also asked for an updated questionnaire (41 questions); Tomas owns that and it is due Oct 21.
+
+If the contract slips past Nov 6 we should plan the billing-service cutover without the DataBridge integration and add it in a follow-up release. That costs about 2 extra weeks of engineering time.
+
+Dana

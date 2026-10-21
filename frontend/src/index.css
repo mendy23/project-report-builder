@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-indigo-50: #eef1f8;
+  --color-indigo-200: #c3cce4;
+  --color-indigo-300: #98a6cf;
+  --color-indigo-500: #2f4a8f;
+  --color-indigo-600: #1b2f6b;
+  --color-indigo-900: #0f1b40;
+}
+
+/* recharts makes its svg focusable, and a click draws the browser's focus ring around the chart */
+.recharts-wrapper,
+.recharts-wrapper *:focus {
+  outline: none;
+}

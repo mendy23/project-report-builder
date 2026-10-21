@@ -1,0 +1,3 @@
+Harbor went well this week. The network team is happy with how stable the new core is and the facilities team has started using the badge app daily.
+The main worry is the missing backup fibre route, which the carrier is still not confirming. Another concern is that the pen test fixes are slowing down the software team.
+Next we move on to the remaining buildings and retest the security findings once the fixes are in.

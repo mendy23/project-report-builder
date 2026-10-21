@@ -1,0 +1,8 @@
+thu standup (typed on phone, sorry)
+kira: core switch B is stable, 0 drops since tuesday. starting the A building cable survey monday
+felix: pen test retest booked for 29 oct, 2 high still open (jump host + old vpn profile)
+omar: hvac part for bldg A still back-ordered, supplier says 2 weeks, ticket FAC-5530
+nora: badge app v2.3 out, 14 bugs closed 6 open. velocity 28 cuz 2 ppl on pen test fixes
+blocked: carrier hasnt confirmed 2nd fibre route (asked 3 times)
+guest wifi demo to the facilities team friday 11am
+reminder: failover test window sat 7 nov 01:00-05:00, need 3 ppl on call
